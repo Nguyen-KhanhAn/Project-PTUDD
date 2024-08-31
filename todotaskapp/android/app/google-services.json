@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949162768947",
+    "project_id": "todotaskapp-83f3c",
+    "storage_bucket": "todotaskapp-83f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949162768947:android:be24b1d792b50ad1f18146",
+        "android_client_info": {
+          "package_name": "com.example.todotaskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWYVoHtIleOtH34Hvx3mfOTGtIUFPhA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
